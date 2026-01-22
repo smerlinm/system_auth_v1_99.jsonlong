@@ -1,6 +1,6 @@
 {
   "PORT_SAVANNAH_001": {
-    "active": false,
+    "active": true,
     "tier": "Gold",
     "expiry": "2026-12-31"
   }
