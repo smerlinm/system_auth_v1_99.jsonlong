@@ -1,7 +1,11 @@
+
 {
   "PORT_SAVANNAH_001": {
-    "active": true,
-    "tier": "Gold",
-    "expiry": "2026-12-31"
+    "status": "ACTIVE"
+  },
+  "PORT_LA_01": {
+    "status": "MAINTENANCE"
+  },
+  "PORT_ANTWERP": {
+    "status": "REVOKED"
   }
-}
